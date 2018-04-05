@@ -1,1 +1,16 @@
-asdlasdml;asdm;asdm;samd;lasdmals;dm;asldms;dl
+[Adblock Plus 2.0]
+/ads/*
+/ads_
+/ads.
+/adservice.
+/advert.
+/getalladv.
+/youtubei/v1/log_
+||admicro.vn^
+||anthill.vn^
+||doubleclick.net^
+||facebook.com/impression.
+||mgid.com^
+##.adsbygoogle
+##.adWidget
+##div[id^="div-gpt-ad"]
