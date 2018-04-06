@@ -7,12 +7,14 @@
 /getalladv.
 /youtubei/v1/log_
 ||admicro.vn^
+||adthis.com^
 ||anthill.vn^
 ||adfox.vn^
 ||doubleclick.net^
 ||facebook.com/impression.
 ||mgid.com^
 ||vads.vn^
+||vietnamnetad.vn^
 ##.adsbygoogle
 ##.adWidget
 ##div[id^="div-gpt-ad"]
