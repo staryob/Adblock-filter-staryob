@@ -12,6 +12,7 @@
 ||doubleclick.net^
 ||facebook.com/impression.
 ||mgid.com^
+||vads.vn^
 ##.adsbygoogle
 ##.adWidget
 ##div[id^="div-gpt-ad"]
