@@ -8,6 +8,7 @@
 /youtubei/v1/log_
 ||admicro.vn^
 ||anthill.vn^
+||adfox.vn^
 ||doubleclick.net^
 ||facebook.com/impression.
 ||mgid.com^
