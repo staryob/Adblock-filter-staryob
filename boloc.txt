@@ -39,6 +39,7 @@
 ||onesignal.com^
 ||vidcpm.com^
 ||valuepotion.com^
+||vnreview.vn/*/adv.
 ||google-analytics.com^
 
 ##.adsbygoogle
