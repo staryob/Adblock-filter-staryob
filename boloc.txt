@@ -14,8 +14,10 @@
 ||adtrue.com^
 ||adnetwork.vn^
 ||criteo.com^
+||cliphub.io^
 ||doubleclick.net^
 ||delivery.vungtv.com^
+||facebook.com/v1/instream/vast.xml?
 ||popcash.net^
 ||hadarone.com^
 ||mookie1.com^
@@ -29,6 +31,7 @@
 ||genieesspv.jp^
 ||onesignal.com^
 ||vidcpm.com^
+||valuepotion.com^
 ||aoredi.com^
 ||google-analytics.com^
 ||b54m4qbmt0b9.com^
