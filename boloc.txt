@@ -39,3 +39,4 @@
 vung.tv##.quangcao
 www.nhaccuatui.com##.nqc-zone
 news.zing.vn###adv1
+www.tinhte.vn##.main.jsx-2927193174
