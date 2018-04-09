@@ -10,14 +10,18 @@
 
 ||apinas.nct.vn/v4/delivery?
 ||admicro.vn^
+||aoredi.com^
 ||adform.net^
 ||adtrue.com^
 ||adnetwork.vn^
+||adexchangemachine.com^
+||b54m4qbmt0b9.com^
 ||criteo.com^
 ||cliphub.io^
 ||doubleclick.net^
 ||delivery.vungtv.com^
 ||facebook.com/v1/instream/vast.xml?
+||facebook.com/impression.
 ||popcash.net^
 ||hadarone.com^
 ||mookie1.com^
@@ -26,15 +30,16 @@
 ||youtube.com/api/stats/qoe?
 ||youtube.com/ptracking?
 ||youtube.com/api/stats/ads?
+||ylx-1.com^
+||onclickmega.com^
+||onclicksuper.com^
 ||revcontent.com^
 ||mgid.com^
 ||genieesspv.jp^
 ||onesignal.com^
 ||vidcpm.com^
 ||valuepotion.com^
-||aoredi.com^
 ||google-analytics.com^
-||b54m4qbmt0b9.com^
 
 ##.adsbygoogle
 ##.adWidget
