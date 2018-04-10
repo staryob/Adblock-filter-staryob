@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 
 /ads.
+/async-ads.
 /admanager.
 /adservice.
 /pagead/*
@@ -10,8 +11,10 @@
 /www-pagead-
 
 ||apinas.nct.vn/v4/delivery?
+||accesstrade.vn^
 ||admicro.vn^
 ||aoredi.com^
+||adtimaserver.vn^
 ||adform.net^
 ||adtrue.com^
 ||adnetwork.vn^
@@ -27,6 +30,8 @@
 ||popads.net^
 ||hadarone.com^
 ||mookie1.com^
+||microad.net^
+||mgid.com^
 ||yomedia.vn^
 ||youtube.com/csi_204?
 ||youtube.com/api/stats/qoe?
@@ -37,7 +42,6 @@
 ||onclickmega.com^
 ||onclicksuper.com^
 ||revcontent.com^
-||mgid.com^
 ||genieesspv.jp^
 ||onesignal.com^
 ||vidcpm.com^
@@ -52,4 +56,4 @@ vung.tv##.quangcao
 www.nhaccuatui.com##.nqc-zone
 www.tinhte.vn##.main.jsx-2927193174
 news.zing.vn###adv1
-
+vn-zoom.com##TD[width="300"]
