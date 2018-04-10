@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-
+! Expires: 1 days (update frequency)
 /ads.
 /async-ads.
 /admanager.
