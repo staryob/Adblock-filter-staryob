@@ -23,6 +23,7 @@
 ||facebook.com/v1/instream/vast.xml?
 ||facebook.com/impression.
 ||popcash.net^
+||popads.net^
 ||hadarone.com^
 ||mookie1.com^
 ||yomedia.vn^
