@@ -7,6 +7,7 @@
 /youtubei/v1/log_
 /generate_204$image
 /jwplayer6/ping.
+/www-pagead-
 
 ||apinas.nct.vn/v4/delivery?
 ||admicro.vn^
@@ -31,6 +32,7 @@
 ||youtube.com/api/stats/qoe?
 ||youtube.com/ptracking?
 ||youtube.com/api/stats/ads?
+||youtube.com/get_midroll_
 ||ylx-1.com^
 ||onclickmega.com^
 ||onclicksuper.com^
