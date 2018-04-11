@@ -53,7 +53,7 @@
 ##.adWidget
 ##div[id^="div-gpt-ad"]
 vung.tv##.quangcao
+tinhte.vn##.main.jsx-2927193174
 www.nhaccuatui.com##.nqc-zone
-www.tinhte.vn##.main.jsx-2927193174
 news.zing.vn###adv1
 vn-zoom.com##TD[width="300"]
