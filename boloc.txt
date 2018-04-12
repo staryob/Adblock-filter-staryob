@@ -19,6 +19,7 @@
 ||adtrue.com^
 ||adnetwork.vn^
 ||adexchangemachine.com^
+||analytics.vnreview.vn^
 ||b54m4qbmt0b9.com^
 ||criteo.com^
 ||cliphub.io^
