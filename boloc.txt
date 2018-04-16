@@ -43,6 +43,7 @@
 ||ylx-1.com^
 ||onclickmega.com^
 ||onclicksuper.com^
+||onclickbright.com^
 ||revcontent.com^
 ||genieesspv.jp^
 ||onesignal.com^
@@ -50,12 +51,15 @@
 ||valuepotion.com^
 ||vnreview.vn/*/adv.
 ||google-analytics.com^
+||trafficfactory.biz^
 
 ##.adsbygoogle
 ##.adWidget
 ##div[id^="div-gpt-ad"]
 vung.tv##.quangcao
 tinhte.vn##.main.jsx-2927193174
+tvhay.org##.float-ck
+tvhay.org##.ad_location
 www.nhaccuatui.com##.nqc-zone
 news.zing.vn###adv1
 vn-zoom.com##TD[width="300"]
