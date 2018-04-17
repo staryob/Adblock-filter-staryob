@@ -1,5 +1,7 @@
 [Adblock Plus 2.0]
 ! Expires: 1 days (update frequency)
+.com/ad/*
+.net/ad/*
 /ads.
 /async-ads.
 /admanager.
@@ -21,11 +23,14 @@
 ||adexchangemachine.com^
 ||ampproject.org^
 ||analytics.vnreview.vn^
+||ad4game.com^
 ||b54m4qbmt0b9.com^
 ||criteo.com^
 ||cliphub.io^
+||cpmstar.com^
 ||doubleclick.net^
 ||delivery.vungtv.com^
+||entitlements.jwplayer.com^
 ||facebook.com/v1/instream/vast.xml?
 ||facebook.com/impression.
 ||popcash.net^
@@ -63,3 +68,5 @@ tvhay.org##.ad_location
 www.nhaccuatui.com##.nqc-zone
 news.zing.vn###adv1
 vn-zoom.com##TD[width="300"]
+
+@@||anime47.com/ad/banner/_adsense_/_adserver/_adview_.ad.json$xmlhttprequest,first-party
