@@ -22,6 +22,7 @@
 ||adnetwork.vn^
 ||adexchangemachine.com^
 ||ampproject.org^
+||anthill.vn^
 ||analytics.vnreview.vn^
 ||ad4game.com^
 ||b54m4qbmt0b9.com^
