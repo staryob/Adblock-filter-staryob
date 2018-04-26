@@ -2,16 +2,20 @@
 ! Expires: 1 days (update frequency)
 .com/ad/*
 .net/ad/*
+/ad.*.com/*
 /ads.
 /async-ads.
 /admanager.
 /adservice.
+/adserver.
 /pagead/*
 /youtubei/v1/log_
 /generate_204$image
 /jwplayer6/ping.
+/js/gpt.
 /www-pagead-
 
+||a-ads.com^
 ||apinas.nct.vn/v4/delivery?
 ||accesstrade.vn^
 ||admicro.vn^
@@ -20,6 +24,8 @@
 ||adform.net^
 ||adtrue.com^
 ||adnetwork.vn^
+||adtima.vn^
+||addthis.com^
 ||adexchangemachine.com^
 ||ampproject.org^
 ||anthill.vn^
@@ -29,6 +35,7 @@
 ||criteo.com^
 ||cliphub.io^
 ||cpmstar.com^
+||clicksor.net^
 ||doubleclick.net^
 ||delivery.vungtv.com^
 ||entitlements.jwplayer.com^
@@ -51,23 +58,33 @@
 ||onclicksuper.com^
 ||onclickbright.com^
 ||revcontent.com^
+||scorecardresearch.com^
 ||genieesspv.jp^
 ||onesignal.com^
 ||vidcpm.com^
 ||valuepotion.com^
 ||vnreview.vn/*/adv.
+||viglink.com^
 ||google-analytics.com^
+||get.sbro.me^
 ||trafficfactory.biz^
+||tagsd.com^
 
 ##.adsbygoogle
 ##.adWidget
 ##div[id^="div-gpt-ad"]
+apkpure.com##.ad-left
+apkpure.com##.ad-right-600
+apkpure.com##.ad-right
+forum.xda-developers.com##.purchad
 vung.tv##.quangcao
 tinhte.vn##.main.jsx-2927193174
 tvhay.org##.float-ck
 tvhay.org##.ad_location
 www.nhaccuatui.com##.nqc-zone
 news.zing.vn###adv1
+news.zing.vn###adv2
 vn-zoom.com##TD[width="300"]
+vnreview.vn###banner_sh
 
 @@||anime47.com/ad/banner/_adsense_/_adserver/_adview_.ad.json$xmlhttprequest,first-party
