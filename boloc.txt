@@ -71,7 +71,6 @@
 ||tagsd.com^
 
 ##.adsbygoogle
-##.adWidget
 ##div[id^="div-gpt-ad"]
 apkpure.com##.ad-left
 apkpure.com##.ad-right-600
@@ -81,6 +80,7 @@ vung.tv##.quangcao
 tinhte.vn##.main.jsx-2927193174
 tvhay.org##.float-ck
 tvhay.org##.ad_location
+tinhte.vn##.adWidget
 www.nhaccuatui.com##.nqc-zone
 news.zing.vn###adv1
 news.zing.vn###adv2
