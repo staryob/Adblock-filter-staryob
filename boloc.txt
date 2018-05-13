@@ -69,6 +69,15 @@
 ||get.sbro.me^
 ||trafficfactory.biz^
 ||tagsd.com^
+||go.bebi.com^
+||n176adserv.com^
+||delivery1.lavanetwork.net^
+||innity.com^
+||ants.vn^
+||blueserving.com^
+||revsci.net^
+||tag.gammaplatform.com^
+||uniad.vn^
 
 ##.adsbygoogle
 ##div[id^="div-gpt-ad"]
