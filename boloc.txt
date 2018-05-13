@@ -78,6 +78,7 @@
 ||revsci.net^
 ||tag.gammaplatform.com^
 ||uniad.vn^
+||log.baomoi.com^
 
 ##.adsbygoogle
 ##div[id^="div-gpt-ad"]
