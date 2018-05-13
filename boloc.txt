@@ -88,9 +88,9 @@ apkpure.com##.ad-right
 forum.xda-developers.com##.purchad
 vung.tv##.quangcao
 tinhte.vn##.main.jsx-2927193174
+tinhte.vn##.adWidget
 tvhay.org##.float-ck
 tvhay.org##.ad_location
-tinhte.vn##.adWidget
 www.nhaccuatui.com##.nqc-zone
 news.zing.vn###adv1
 news.zing.vn###adv2
