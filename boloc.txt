@@ -80,6 +80,9 @@
 ||tag.gammaplatform.com^
 ||uniad.vn^
 ||log.baomoi.com^
+||eclick.vn^
+||knowlead.io^
+||polyad.net^
 
 ##.adsbygoogle
 ##div[id^="div-gpt-ad"]
