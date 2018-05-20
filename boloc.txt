@@ -8,7 +8,7 @@
 /admanager.
 /adservice.
 /adserver.
-/pagead/*
+/pagead/*$third-party
 /youtubei/v1/log_
 /generate_204$image
 /jwplayer6/ping.
