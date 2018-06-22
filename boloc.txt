@@ -100,6 +100,7 @@ news.zing.vn###adv1
 news.zing.vn###adv2
 vn-zoom.com##TD[width="300"]
 vnreview.vn###banner_sh
+vophim.com###sampleAds
 
 @@||anime47.com/ad/banner/_adsense_/_adserver/_adview_.ad.json$xmlhttprequest,first-party
 @@||www.url2earn.com/js/ads.js$domain=www.url2earn.com
