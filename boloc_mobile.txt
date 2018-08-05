@@ -15,3 +15,4 @@
 /jwplayer6/ping.
 /js/gpt.
 /www-pagead-
+||admicro.vn^
