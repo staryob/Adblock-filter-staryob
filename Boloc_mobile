@@ -1,1 +1,16 @@
-boloc di dong
+[Adblock Plus 2.0]
+! Expires: 1 days (update frequency)
+.com/ad/*
+.net/ad/*
+/ad.*.com/*
+/ads.
+/async-ads.
+/admanager.
+/adservice.
+/adserver.
+/pagead/*$third-party
+/youtubei/v1/log_
+/generate_204$image
+/jwplayer6/ping.
+/js/gpt.
+/www-pagead-
