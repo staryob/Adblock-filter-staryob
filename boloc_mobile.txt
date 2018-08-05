@@ -4,6 +4,7 @@
 .net/ad/*
 /ad.*.com/*
 /ads.
+/ads_
 /async-ads.
 /admanager.
 /adservice.
