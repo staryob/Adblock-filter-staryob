@@ -11,6 +11,7 @@
 /adservice.
 /adserver.
 /pagead/*$third-party
+/prebid/*
 /youtubei/v1/log_
 /generate_204$image
 /jwplayer6/ping.
