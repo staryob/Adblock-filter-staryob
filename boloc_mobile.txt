@@ -19,6 +19,7 @@
 /www-pagead-
 ||admicro.vn^
 ||adtimaserver.vn^
+||google-analytics.com^
 
 ##.ad-1
 ##.ad-2
