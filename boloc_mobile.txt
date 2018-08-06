@@ -32,3 +32,6 @@ m.baomoi.com###BaoMoi_Mobile_Middle
 m.baomoi.com###BaoMoi_Mobile_Middle_1
 m.baomoi.com###BaoMoi_Mobile_Middle_2
 m.baomoi.com###BaoMoi_Mobile_Middle_3
+
+@@||vnurl.info/js/ads.js
+@@||vnurl.info/1/2/advertisement.js
