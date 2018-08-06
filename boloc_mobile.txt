@@ -20,6 +20,13 @@
 ||admicro.vn^
 ||adtimaserver.vn^
 
+##.ad-1
+##.ad-2
+##.ad-3
+##.ad-4
+##.ad-5
+##.ad-6
+##.adWidget
 m.baomoi.com###BaoMoi_Mobile_Middle
 m.baomoi.com###BaoMoi_Mobile_Middle_1
 m.baomoi.com###BaoMoi_Mobile_Middle_2
