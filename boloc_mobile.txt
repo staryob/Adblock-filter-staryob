@@ -19,4 +19,5 @@
 /www-pagead-
 ||admicro.vn^
 ||adtimaserver.vn^
+m.baomoi.com###BaoMoi_Mobile_Middle
 m.baomoi.com###BaoMoi_Mobile_Middle_1
