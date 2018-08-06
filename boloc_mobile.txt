@@ -5,6 +5,7 @@
 /ad.*.com/*
 /ads.
 /ads_
+/adsid/*
 /async-ads.
 /admanager.
 /adservice.
