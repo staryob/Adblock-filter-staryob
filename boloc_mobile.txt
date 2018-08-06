@@ -16,3 +16,4 @@
 /js/gpt.
 /www-pagead-
 ||admicro.vn^
+||adtimaserver.vn^
