@@ -20,7 +20,7 @@
 ||admicro.vn^
 ||adtimaserver.vn^
 ||google-analytics.com^
-
+||graph.facebook.com/?ids=*&callback=$third-party,script
 ##.ad-1
 ##.ad-2
 ##.ad-3
