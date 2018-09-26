@@ -37,6 +37,8 @@
 ||entitlements.jwplayer.com^
 ||uniad.vn^
 ||facebook.com/ajax/bz
+||facebook.com/*/instream/*
+
 @@||vnurl.info/js/ads.js
 @@||vnurl.info/1/2/advertisement.js
 @@||123link.pro/js/ads.js
