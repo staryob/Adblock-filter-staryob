@@ -21,6 +21,7 @@
 ||amung.us^
 ||admicro.vn^
 ||cliphub.io^
+||doubleclick.net^
 ||advertnative.com^
 ||ampproject.org^
 ||gammaplatform.com^
