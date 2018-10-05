@@ -3,6 +3,7 @@
 /ads/*
 /adServe/*
 /adcore.
+/AdServer/*
 /adservice.
 /ads-sync.
 /ad_status.
@@ -19,12 +20,16 @@
 ||amcdn.vn^
 ||a-ads.com^
 ||adnetwork.vn^
+||adnxs.com^
 ||anthill.vn^
+||adsrvr.org^
 ||amung.us^
 ||admicro.vn^
 ||addthis.com^
+||adtimaserver.vn^
 ||bebi.com^
 ||cliphub.io^
+||criteo.com^
 ||doubleclick.net^
 ||advertnative.com^
 ||ampproject.org^
@@ -34,6 +39,9 @@
 ||googletagservices.com^
 ||valuepotion.com^
 ||mgid.com^
+||mookie1.com^
+||moatads.com^
+||microad.net^
 ||n176adserv.com^
 ||popads.net^
 ||pc1ads.com^
@@ -41,6 +49,7 @@
 ||propellerads.com^
 ||innity.com^
 ||inter1ads.com^
+||infolinks.com^
 ||hadarone.com^
 ||trafficfactory.biz^
 ||youtube.com/api/stats/qoe?
@@ -64,4 +73,8 @@ tinhte.vn##.main.jsx-2927193174
 tinhte.vn##.adWidget
 bilutv.com##.float-ads
 vophim.com###hide_float_left
+www.nhaccuatui.com##.nqc-zone
 ##.adsbygoogle
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-video.ytp-ce-element > .ytp-ce-covering-overlay
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-video.ytp-ce-element > .ytp-ce-covering-overlay
+www.vn-zoom.com##.body_wrapper > table > tbody > tr > td:nth-of-type(2)
